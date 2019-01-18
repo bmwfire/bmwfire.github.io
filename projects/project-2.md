@@ -1,17 +1,17 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
+image: images/Screen Shot 2018-05-02 at 8.02.22 AM.jpg
+title: Junior Scheme Project
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2018-05-04
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - C++
+  - Scheme
+  - CLion
+  - Git/GitHub
+summary: A partially-compliant R7RS Scheme interpreter called “Shaka Scheme” written in C++.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
