@@ -4,15 +4,15 @@
     "label": "Student",
     "picture": "https://bmwfire.github.io/images/Wong_Brandon.jpg",
     "email": "bwong7@hawaii.edu",
-    "phone": "(808)234-3024",
+    "phone": "808.234.3024",
     "website": "https://bmwfire.github.io",
     "summary": "I am an upcoming graduate in Computer Engineering at the University of Hawaii at Manoa.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "",
-      "countryCode": "",
-      "region": ""
+      "address": "98-675 Papalealii St",
+      "postalCode": "96701",
+      "city": "Aiea",
+      "countryCode": "USA",
+      "region": "HI"
     },
     "profiles": [
       {
@@ -29,19 +29,27 @@
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "software engineering",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "software development",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "algorithms",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "data science",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "devops",
       "keywords": [
       ]
     }
