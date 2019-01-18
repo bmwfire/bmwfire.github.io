@@ -84,7 +84,7 @@
   "education": [
     {
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Engineering (expected Spring, 2019)",
       "studyType": "B.S.",
       "startDate": "2015-08-24",
       "endDate": "2019-05-10",
@@ -111,7 +111,7 @@
     {
       "company": "Bank of Hawaii",
       "position": "Summer Intern in IT Infrastructures",
-      "website": "https://boh.com/personal/",
+      "website": "https://boh.com",
       "startDate": "2017-06",
       "endDate": "2017-08",
       "summary": "Worked on imaging servers and configured offices phones from a highly secured bank data center.",
@@ -119,51 +119,68 @@
       ]
     }
   ],
-  "volunteer": [
+  "miscellaneous": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "IEEE (Institute of Electrical and Electronic Engineers)",
+      "website": "http://ieeeatuhm.com",
+      "position": "Associate Board Chair",
+      "startDate": "2018-08",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Chair/President for the IEEE Student Branch Associate Board",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "organization": "ACM (Association for Computing Machinery)",
+      "website": "https://acmanoa.github.io",
+      "position": "Director of Algorithm Mock Interviews",
+      "startDate": "2018-08",
+      "endDate": "Present",
+      "summary": "Teach algorithms to CS/CE students to prepare them for technical interviews",
+      "highlights": [
+      ]
+    },
+    {
+      "organization": "University of Hawaii at Manoa: College of Engineering",
+      "website": "http://ee.hawaii.edu",
+      "position": "Electrical Engineering Teaching Assistant",
+      "startDate": "2018-08",
+      "endDate": "2018-12",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "EE 361L: Digital Systems and Computer Design"
+      ]
+    },
+    {
+      "organization": "University of Hawaii at Manoa: College of Mathematics",
+      "website": "https://math.hawaii.edu",
+      "position": "Mathematics Learning Assistant",
+      "startDate": "2019-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Math 242: Calculus II"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "College of Engineering Dean’s List",
+      "date": "Fall 2015",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Dean's List having a GPA of 3.6 & above."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
+      "title": "Manoa Merit Scholarship",
+      "date": "Fall 2015-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "4 year scholarship awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public/private school."
+    },
     {
-      "name": "Available upon request",
-      "reference": ""
+      "title": "Semifinalist in UH Business Plan Competition 2017",
+      "date": "Spring 2017",
+      "awarder": "University of Hawaii at Manoa: College of Business",
+      "summary": "Became a semifinalist in the annual UH Business PACE Business Plan Competition"
     }
   ]
 }
