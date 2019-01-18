@@ -6,7 +6,7 @@
     "email": "bwong7@hawaii.edu",
     "phone": "808.234.3024",
     "website": "https://bmwfire.github.io",
-    "summary": "I am an upcoming graduate in Computer Engineering at the University of Hawaii at Manoa.",
+    "summary": "I am an upcoming graduate in Computer Engineering at the University of Hawaii at Manoa. I aspire to be a successful software engineer.",
     "location": {
       "address": "98-675 Papalealii St",
       "postalCode": "96701",
@@ -56,36 +56,38 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Software Tools and Programming Languages",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python",
+        "C/C++",
+        "Git",
+        "Swift",
+        "R",
+        "MATLAB",
+        "System Verilog",
+        "HTML/CSS",
+        "Javascript"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Operating Systems",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "iOS",
+        "macOS",
+        "Linux",
+        "Android"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "startDate": "2015-08-24",
+      "endDate": "2019-05-10",
       "gpa": "",
       "courses": [
       ]
@@ -93,27 +95,27 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Raytheon",
+      "position": "TechStudent-Senior",
+      "website": "https://www.raytheon.com",
+      "startDate": "2018-06-04",
+      "endDate": "2018-08-10",
+      "summary": "Enhanced the MNU (Multi-node unit/computer) tactical flight software test system to test more effectively the tactical flight software.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Discovered bug in the source code revealed by turning on the speed optimization flag setting.",
+        "Implemented NFS (network file sharing) which enabled standard I/O for MNU system.",
+        "Implemented new application load mechanism by utilizing the NFS server as a local file system.",
+        "Spearheaded the migration of version control system from Git to GitHub Enterprise."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Bank of Hawaii",
+      "position": "Summer Intern in IT Infrastructures",
+      "website": "https://boh.com/personal/",
+      "startDate": "2017-06",
+      "endDate": "2017-08",
+      "summary": "Worked on imaging servers and configured offices phones from a highly secured bank data center.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
       ]
     }
   ],
