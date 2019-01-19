@@ -1,14 +1,14 @@
 ---
 layout: essay
 type: essay
-title: My Path Towards the Future
+title:  Path Towards the Future
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-17
 labels:
   - Software Engineering
   - Big N Tech Companies
 ---
-
+My
 I recall the first time I fell in love with engineering. I was in high school and as a little freshman, I witnessed automous robots running on a particular program to solve a problem given by a robotics tournament. What truly fascinated me about this was that the robots were essentially blind and what controlled them was a programmed set of functions in order for it to guide itself on a gameboard path it could not see. I distinctly remember as a freshman, I wanted to pursue a field in engineering so that I could be part of a movement of intelligent men and women who could innovate and change the world. 
 
 Now, as a university senior about to graduate with his bachelors in computer engineering, looking back, I know I made the right decision in choosing this field. I love programming and developing algorithms, and with the skills I have learned during my time at the University of Hawaii at Manoa, I now can see myself accomplishing the dream I set for myself as a little high school freshman. As an individual nearly obsessed with the development of algorithms and optimizations, I feel a field in software engineering is perfect since I can naturally spend 40-50 hours a week in a large tech company working on solving problems. 
