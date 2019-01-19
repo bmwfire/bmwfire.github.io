@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Reflect on Javascript 1
+title: My Thoughts on Javascript Thus Far . . .
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-18
 labels:
