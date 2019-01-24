@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Screen Shot 2019-01-17 at 9.55.53 PM.jpg
+image: images/c_sharp.jpg
 title: Sophomore Arduino Project
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
