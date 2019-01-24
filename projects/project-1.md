@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/IMG_4504.PNG
+image: images/xcode.png
 title: Junior iOS App Project
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
