@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/xcode.png
 title: Junior iOS App Project
-permalink: projects/micromouse
+permalink: projects/junior-ios-app-project
 # All dates must be YYYY-MM-DD format!
 date: 2017-12-15
 labels:
@@ -30,4 +30,4 @@ I was the chief engineer of this project as I came up with this idea in early Fe
 The three above images show the functionality of the app. The first image showcases the initial display of the user's flashcards, the second image shows the look of the individual flash cards, and the third image presents the notification settings. 
 
 
-
+Source: <a href="https://github.com/bmwfire/StudyBoss"><i class="large github icon "></i>bmwfire/StudyBoss</a>
