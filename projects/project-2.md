@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/garbage_collector.png
 title: Junior Scheme Project
-permalink: projects/vacay
+permalink: projects/junior-scheme-project
 # All dates must be YYYY-MM-DD format!
 date: 2018-05-04
 labels:
@@ -27,3 +27,6 @@ As for my specific contribution to the project, I was tasked within the core sys
 In the Shaka Scheme project, it consisted of two individual teams: Libraries and Core Systems. As previously mentioned above, I was part of the Core Systems team, and it included a leader/mentor and two other members including myself. Besides Austin Tasato being the head of the entire project, my direct leader/mentor of the Core Systems team was Billy Troy Wooton, and my partner was Kirsten Takanishi. Pertaining to the implementation of the garbage collector or GC for short, I contributed by implementing the GCList .hpp and .cpp files which held a linked-list of GCData objects and had methods to check the size of the list, add GCData objects to the GCList, and do the sweep phase after the mark phase. I also designed the GC class .hpp and .cpp files which held the methods of `create_data()` taking in a const reference to a data object as an input parameter, which then dynamically allocated a “new” GCData object wrapped over that data object on the heap. From there it added that GCData object to the GCList then returned the GCData object. The GC class also made the GCList private and allowed to get the size of the list as well as invoke the sweep method within the GC class. My last task of the project was to complete the mark implementation, which as previously mentioned marked everything in the five registers of the heap virtual machine. I wrote the method for marking the environment register (`mark_environment()`) which was a simple iterator through the environment map calling a function called `mark_node()` on all variables and values in the environment. Since this was a fairly short task, I assisted my partner, Kirsten, in her completion of the mark implementation by helping her write `mark_accumulator()`, `mark_expression()`, and `mark_value_rib()`. In addition to my tasks consisting of writing .hpp and .cpp files for GC classes and functions, I also wrote individual unit-test .cpp files to test the functionality of all my methods and functions.
 
 This project was extremely helpful in improving my OOP skills in C++. Though it did not cover much Scheme syntax or language use, it was a nice introduction to the Scheme language. I personally enjoyed working on the garbage collector implementation for this project especially since I had direct mentorship from my core systems leader, Troy, who was very patient in helping me understand all necessary C++ concepts. The first image at the top is the directory holding all necessary .hpp and .cpp files for the GC, the second image shows the directory holding all the unit-test files we wrote, and the title image shows our completed GC design within main.cpp of Shaka Scheme.
+
+
+Source: <a href="https://github.com/uhmanoa-transpiler-project/shaka-scheme"><i class="large github icon "></i>uhmanoa-transpiler-project/shaka-scheme</a>
