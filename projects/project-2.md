@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Screen Shot 2018-05-02 at 8.02.22 AM.jpg
+image: images/garbage_collector.png
 title: Junior Scheme Project
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
@@ -17,6 +17,7 @@ summary: A partially-compliant R7RS Scheme interpreter called “Shaka Scheme”
 <div class="ui small rounded images">
   <img class="ui image" src="../images/Screen Shot 2018-05-02 at 8.01.29 AM.jpg">
   <img class="ui image" src="../images/Screen Shot 2018-05-02 at 8.01.50 AM.jpg">
+  <img class="ui image" src="../images/Screen Shot 2018-05-02 at 8.02.22 AM.jpg">
 </div>
 
 This project was designed on the CLion IDE in C++, and it involved the continuation of Austin Tasato’s Shaka Scheme project which had been running for two semesters prior to my contribution to the project. Shaka Scheme is currently a partially-compliant R7RS Scheme implementation, and the goal of the project is to create a clean implementation of R7RS-small Scheme using modern C++ and OOP design idioms and features while keeping it readable for novice/intermediate C++ programmers. Since the project strives to create a standalone distribution of Scheme that is relatively light and portable, the design choices tend away from using larger libraries such as Boost within the implementation.
