@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/c_sharp.jpg
 title: Sophomore Arduino Project
-permalink: projects/cotton
+permalink: projects/sophomore-arduino-project
 # All dates must be YYYY-MM-DD format!
 date: 2016-12-16
 labels:
@@ -31,3 +31,5 @@ I was the chief engineer of this project as I came up with this idea around earl
 
 I learned many important hardware concepts with this project as I was introduced to soldering, wiring, and overall design ideas. This project was very experimental as there was not a product that exhibited our exact project and design. From learning how a GPS module detects a fix to a satellite to wiring up a fingerprint sensor properly to attain the full 5V power necessary to even hours of debugging a C program, I felt as though this was a very productive project in learning simple methods that though alone may seem unimportant and trivial, together can form a huge potential marketable product.
 
+
+Source: <a href="https://youtu.be/izAxeNXCFF8"><i class="large youtube icon "></i>YouTube/GPSTrackingCaseLock</a>
