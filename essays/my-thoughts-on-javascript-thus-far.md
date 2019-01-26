@@ -9,11 +9,13 @@ labels:
   - Athletic software engineering
 ---
 
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/js.png">
+</div>
+
 As an algorithms coder, I've dealt with quite a bit of programming languages, however I have never needed a reason to learn Javascript until now. I suppose being a computer engineering student, I've spent alot of time writing programs in C, C++, Python, and HDL languages like VHDL, Verilog, System Verilog. However, after going through the Javascript module, I feel it is quite similar to Python in type definitions. 
 
 In my opinion, I believe that if someone has a strong understanding in C/C++, they are capable of easily picking up any other language. In the same way, I felt picking up Javascript was very easy for me especially since as a Python coder, I'm not the biggest fan of worrying about types when developing algorithms. Personally, I appreciate simple definitions like the Javascript 'var' or 'let'; however I prefer not having to worry about type definitions altogether. 
-
-<img class="ui image" src="../images/js.png">
 
 From what I've seen so far working with Javascript, I can see how it could be a good language for software engineering. What makes me question though is how universal it is when trying to implement it in large projects when other programming languages are involved. For example, when I interned at Raytheon, I worked on a project that utilized multiple languages. Since Python is a functional language, it was very simple and convenient to write a file that easily called our python scripts with `python NAME_OF_FILE.py` -- unlike languages like C/C++ that requires an initial compilation. I could be wrong and perhaps Javascript is good and can easily be called simply by other means like a GUI. This will be something I am eager to discover during this semester as I learn more about Javascript. 
 
