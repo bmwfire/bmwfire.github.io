@@ -54,6 +54,18 @@
       ]
     }
   ],
+  "education": [
+    {
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Computer Engineering (expected Spring, 2019)",
+      "studyType": "B.S.",
+      "startDate": "2015-08-24",
+      "endDate": "2019-05-10",
+      "gpa": "",
+      "courses": [
+      ]
+    }
+  ],
   "skills": [
     {
       "name": "Software Tools and Programming Languages",
@@ -78,18 +90,6 @@
         "macOS",
         "Linux",
         "Android"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii at Manoa, Honolulu, HI",
-      "area": "Computer Engineering (expected Spring, 2019)",
-      "studyType": "B.S.",
-      "startDate": "2015-08-24",
-      "endDate": "2019-05-10",
-      "gpa": "",
-      "courses": [
       ]
     }
   ],
