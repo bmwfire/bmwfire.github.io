@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: My Reflection on UI Frameworks
+title: The Upgrade to UI Frameworks
 # All dates must be YYYY-MM-DD format!
 date: 2019-02-21
 labels:
@@ -21,4 +21,4 @@ To my understanding, despite UI Frameworks are complicated, it becomes an additi
 
 I recall my first projects in my software engineering class using frameworks. We were assigned to create a webpage using basic HTML and CSS. In my opinion, I thought the page I created was good, but there was something missing. This is when we were asked to build upon our initial page by adding the frameworks component to it. All of a sudden, my webpage went from looking "good" to looking "great". It was as if this "cheat code" had been hidden from me until now. I was quite amazed by it, and now I see how important frameworks adds to a standard HTML/CSS webpage.  
 
-In conclusion, I feel if any software developer is learning or already knows how to develop webpages, frameworks is a necessity. There is such a gap between how much basic HTML can do versus the infinite path one can take with creativity in frameworks. If a consumer were to do a comparison between the "best basic HTML" design versus the "best HTML with Frameworks" design, I am confident that that consumer will want to invest their money in the HTML web design using frameworks. It is clear that the modern standard is to use frameworks, and essentially looks more professional than using basic HTML without it. 
+In conclusion, I feel if any software developer is learning or already knows how to develop webpages, frameworks is a necessity. There is such a gap between how much basic HTML can do versus the infinite path one can take with creativity in frameworks. If a consumer were to do a comparison between the "best basic HTML" design versus the "best HTML with Frameworks" design, I am confident that that consumer will want to invest their money in the HTML web design using frameworks. It is clear that the modern standard is to use frameworks, and essentially it looks more professional than using basic HTML without it. 
