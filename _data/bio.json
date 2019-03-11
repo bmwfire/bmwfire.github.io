@@ -165,6 +165,18 @@
   ],
   "awards": [
     {
+      "title": "Interim Secret Security Clearance",
+      "date": "2018-08",
+      "awarder": "Raytheon",
+      "summary": ""
+    },
+    {
+      "title": "Semifinalist in UH Business Plan Competition",
+      "date": "Spring 2017",
+      "awarder": "University of Hawaii at Manoa: College of Business",
+      "summary": "Became a semifinalist in the annual UH PACE Business Plan Competition"
+    },
+    {
       "title": "College of Engineering Dean’s List",
       "date": "Fall 2015",
       "awarder": "University of Hawaii at Manoa",
@@ -175,18 +187,6 @@
       "date": "Fall 2015-Present",
       "awarder": "University of Hawaii at Manoa",
       "summary": "4 year scholarship awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public/private school."
-    },
-    {
-      "title": "Semifinalist in UH Business Plan Competition",
-      "date": "Spring 2017",
-      "awarder": "University of Hawaii at Manoa: College of Business",
-      "summary": "Became a semifinalist in the annual UH Business PACE Business Plan Competition"
-    },
-    {
-      "title": "Interim Secret Security Clearance",
-      "date": "2018-08",
-      "awarder": "Raytheon",
-      "summary": ""
     }
   ]
 }
