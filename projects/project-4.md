@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/c_sharp.jpg
+image: images/logoblack.png
 title: Senior Design Website
 permalink: projects/senior-design-website
 # All dates must be YYYY-MM-DD format!
@@ -15,9 +15,8 @@ summary: A website titled "DiscoverCS" that allows university students to be awa
 
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/296 (1).jpg">
-  <img class="ui image" src="../images/296 (2).jpg">
+<div class="ui rounded images">
+  <img class="ui image" src="../images/discovercs.jpg">
 </div>
 
 <Placeholder>
